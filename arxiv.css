@@ -1,0 +1,17 @@
+.arxiv-container img {
+    width: 60px;
+    height: 60px;
+    float: left;
+}
+
+.arxiv-container .title {
+    font-size: 15px;
+}
+
+.arxiv-container .author {
+    font-size: 13px;
+}
+
+.arxiv-container .desc {
+    margin-top: 5px;
+}
