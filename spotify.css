@@ -1,0 +1,20 @@
+.spotify-container img {
+    height: 60px;
+    width: 50px;
+    float: left;
+    margin-right: 10px;
+}
+
+.spotify-container .info {
+    font-size: 11px;
+    color: gray;
+}
+.spotify-container .title {
+    font-size: 20px;
+    font-style: italic;
+}
+
+.spotify-container .artist {
+    margin-top: 5px;
+    font-size: 15px;
+}
