@@ -4,7 +4,7 @@
 // @version      1.0
 // @description  A userscript that allows you to easily add a onebox to your own custom sites! :)
 // @author       ᔕᖺᘎᕊ (http://stackexchange.com/users/4337810/)
-// @match        *://chat.stackoverfow.com/*
+// @match        *://chat.stackoverflow.com/*
 // @match        *://chat.meta.stackexchange.com/*
 // @match        *://chat.stackexchange.com/*
 // @grant        none
@@ -29,7 +29,7 @@ customSites['customsite.com'] = function(link, $obj) { //all sites must have a f
 }
 
 
-//---------------------------------------------------------You don't need to modify the below!-----------------------------------------------------------//
+//---------------------------------------------------------You don't need to modify the code here!-----------------------------------------------------------//
 
 var observer = new MutationObserver(function (mutations) { //MutationObserver;
     mutations.forEach(function (mutation) {
