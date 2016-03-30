@@ -3,8 +3,8 @@
 }
 
 .steam-container img {
-    width: 300px;
-    height: 200px;
+    width: 276px;
+    height: 129px;
     float: left;
     margin-right: 10px;
 }
@@ -15,4 +15,5 @@
 
 .steam-container .title {
     font-size: 20px;
+    padding: 10px;
 }
