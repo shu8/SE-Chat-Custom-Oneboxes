@@ -5,6 +5,10 @@
     margin-right: 10px;
 }
 
+.steam-container .tags .ob-post-tag {
+    margin-right: 5px;
+}
+
 .steam-container .title {
     font-size: 15px;
 }
