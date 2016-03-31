@@ -1,18 +1,25 @@
 .steam-container {
     background-color: white;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 5px;
 }
 
 .steam-container img {
-    width: 300px;
-    height: 200px;
+    width: 276px;
+    height: 129px;
     float: left;
     margin-right: 10px;
 }
 
 .steam-container .tags .ob-post-tag {
     margin-right: 5px;
+    margin-bottom: 5px;
 }
 
 .steam-container .title {
     font-size: 20px;
+    padding: 10px;
 }
