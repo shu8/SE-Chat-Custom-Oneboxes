@@ -1,0 +1,9 @@
+.oeis-container .id {
+  float: left;
+  margin-right: 10px;
+  font-weight: bold;
+}
+
+.oeis-container .sequence {
+  display:block;
+}
