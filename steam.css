@@ -2,14 +2,14 @@
     background-color: white;
     margin-top: 5px;
     margin-bottom: 5px;
-    margin-left: 5px;
+    margin-left: 0px;
     margin-right: 5px;
     padding: 5px;
 }
 
 .steam-container img {
-    width: 276px;
-    height: 129px;
+    width: 184px;
+    height: 86px;
     float: left;
     margin-right: 10px;
 }
